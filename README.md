@@ -1,5 +1,5 @@
 # Infinite Monkey Genetic Algorithm
-This project was adapted from and built upon the [Genetic Algorithm series](https://www.youtube.com/watch?v=9zfeTw-uFCw&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) by [Daniel Shiffman](https://shiffman.net/) on his YouTube channel, [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw). This is an example of an application of a genetic algorithm to solve a problem inspired by the [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
+This Python project was adapted from and built upon the [Genetic Algorithm series](https://www.youtube.com/watch?v=9zfeTw-uFCw&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) by [Daniel Shiffman](https://shiffman.net/) on his YouTube channel, [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw). This is an example of an application of a genetic algorithm to solve a problem inspired by the [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 
 ### Infinite Monkey Theorem
 In essence, this theorem states that given an infinite amount of time, a monkey hitting random keys on a keyboard will be almost guaranteed to type any (and every) given text. While this scenario would be interesting to simulate, it is unfortunately not feasible. However, it serves as the basis for the problem solved by this algorithm.
