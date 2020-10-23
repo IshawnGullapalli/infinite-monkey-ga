@@ -5,7 +5,7 @@ This Python project was adapted from and built upon the [Genetic Algorithm serie
 In essence, this theorem states that given an infinite amount of time, a monkey hitting random keys on a keyboard will be almost guaranteed to type any (and every) given text. While this scenario would be interesting to simulate, it is unfortunately not feasible. However, it serves as the basis for the problem solved by this algorithm.
 
 ### The Problem
-Given a target phrase consisting only ASCII characters, generate the phrase and print it to the terminal.
+Given a target phrase consisting only ASCII characters, generate the phrase and print it to the terminal. This problem is actually an expanded version of the [One Max Problem](https://tracer.lcc.uma.es/problems/onemax/onemax.html).
 
 ### The Solution
 1. We will start by generating a list of phrases which will act as our population. 
