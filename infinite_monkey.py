@@ -121,4 +121,11 @@ def genetic_algorithm(target, population_size, mutation_rate):
         display_info(population, population_size, fitnesses, generation)
 
 
+"""
+This executes the genetic algorithm with the following parameters:
+- Target phrase: To be or not to be.
+- Population size: 200
+- Mutation rate: 1%
+These values can be modified.
+"""
 genetic_algorithm("To be or not to be.", 200, 0.01)
