@@ -28,3 +28,6 @@ Given a target phrase consisting only ASCII characters, generate the phrase and 
 
 ### Conclusion
 While this problem can be easily solved through other means (printing the target phrase directly to the terminal, for example), it serves as a good example of the usage and implementation of a genetic algorithm. This type of algorithm can be applied to other problems which are not as trivial.
+
+### Note
+This repository contains two files, "infinite_monkey.py" and "infinite_monkey_deap.py". The former is a solution implemented without the use of specialized external packages. The latter makes use of the [DEAP framework](https://github.com/deap/deap) to solve the same problem.
