@@ -1,4 +1,4 @@
-# Infinite Monkey Genetic Algorithm
+# Phrase Evolution
 This Python project was adapted from and built upon the [Genetic Algorithm series](https://www.youtube.com/watch?v=9zfeTw-uFCw&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) by [Daniel Shiffman](https://shiffman.net/) on his YouTube channel, [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw). This is an example of an application of a genetic algorithm to solve a problem inspired by the [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 
 ### Infinite Monkey Theorem
@@ -30,4 +30,4 @@ Given a target phrase consisting only ASCII characters, generate the phrase and 
 While this problem can be easily solved through other means (printing the target phrase directly to the terminal, for example), it serves as a good example of the usage and implementation of a genetic algorithm. This type of algorithm can be applied to other problems which are not as trivial.
 
 ### Note
-This repository contains two files, "infinite_monkey.py" and "infinite_monkey_deap.py". The former is a solution implemented without the use of specialized external packages. The latter makes use of the [DEAP framework](https://github.com/deap/deap) to solve the same problem.
+This repository contains two files, "phrase_evolution.py" and "phrase_evolution_deap.py". The former is a solution implemented without the use of specialized external packages. The latter makes use of the [DEAP framework](https://github.com/deap/deap) to solve the same problem.
